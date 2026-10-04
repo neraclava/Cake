@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: "\u30AB\u30E9\u30FC\u30D0\u30FC_0"
+  m_Name: maptile_sogen_01_0
   m_EditorClassIdentifier: UnityEngine.dll::UnityEngine.Tilemaps.Tile
-  m_Sprite: {fileID: -5179333680172788080, guid: b63284a77b02c194c81135b9529f89bb, type: 3}
+  m_Sprite: {fileID: -981358956703980731, guid: 73b82ca1e84a70d46b79844f78845acd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
